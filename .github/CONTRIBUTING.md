@@ -14,7 +14,7 @@ Move to the desired location where package.json file is located
     you automatically get npm installed on your computer.
     https://www.npmjs.com/get-npm
 - Install all the dependencies used by this project.
-   Use this command:  `install npm`
+   Use this command:  `npm install`
 
 - Run these final commands to run it locally:
   `npm install`
